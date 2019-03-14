@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1509244106 source:c:\users\asus\desktop\新建文件夹\shop3.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"tool.h"
+	"orderService.h"
+	"productService.h"
+	"userService.h"
+
+1509194087 c:\users\asus\desktop\新建文件夹\shop3.6\model.h
+
+1509244020 c:\users\asus\desktop\新建文件夹\shop3.6\tool.h
+
+1509242854 c:\users\asus\desktop\新建文件夹\shop3.6\orderservice.h
+
+1509202090 c:\users\asus\desktop\新建文件夹\shop3.6\productservice.h
+
+1509243725 c:\users\asus\desktop\新建文件夹\shop3.6\userservice.h
+
+1509246702 source:c:\users\ytj\desktop\shops\shop3.6\shop3.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"tool.h"
+	"orderService.h"
+	"productService.h"
+	"userService.h"
+
+1509194086 c:\users\ytj\desktop\shops\shop3.6\shop3.6\model.h
+
+1509244020 c:\users\ytj\desktop\shops\shop3.6\shop3.6\tool.h
+
+1509242854 c:\users\ytj\desktop\shops\shop3.6\shop3.6\orderservice.h
+
+1509202090 c:\users\ytj\desktop\shops\shop3.6\shop3.6\productservice.h
+
+1509248572 c:\users\ytj\desktop\shops\shop3.6\shop3.6\userservice.h
+
+1509246702 source:c:\users\luojin\desktop\shop3.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"tool.h"
+	"orderService.h"
+	"productService.h"
+	"userService.h"
+
+1509194086 c:\users\luojin\desktop\shop3.6\model.h
+
+1513495847 c:\users\luojin\desktop\shop3.6\tool.h
+
+1509242854 c:\users\luojin\desktop\shop3.6\orderservice.h
+
+1513495085 c:\users\luojin\desktop\shop3.6\productservice.h
+
+1513495755 c:\users\luojin\desktop\shop3.6\userservice.h
+
